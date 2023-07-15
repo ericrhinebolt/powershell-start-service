@@ -6,9 +6,9 @@
 
 - My server is located in the directory "C:\7-days". Either install to the same directory or change the code/commands to match your location.
 
-### If you would like to use this script for you own server, please follow the steps below.
+### If you would like to use this script for your own server, please follow the steps below.
 
-1. Download the code in the "start-service-refresh.ps1" file. Save it to a text file with a .ps1 extension. Either save it to C:\7-days\start-service-refresh.ps1 or change the path in step 4. - iii.
+1. Download the code in the "start-service-refresh.ps1" file. Save it to a text file with a .ps1 extension. Either save it to C:\7-days\start-service-refresh.ps1 or change the path in step 4. - iii. and set 5. - i.
 
 2. This code will need signed with a self signed certificate for it to run correctly. Open Powershell with Run as Administrator.
 
@@ -33,7 +33,7 @@
    4. ```
       Set-ExecutionPolicy AllSigned
       ```
-4. You should now have a signed powershell script that you can run from powershell. Continue on to the next steps to have that script starts when windows starts.
+4. You should now have a signed powershell script that you can run from powershell. Continue on to the next steps to have that script start when windows starts.
 
 5. Create another new text file named "7-days-auto-start.cmd". Open the file. Put the following text into the file:
    1. ```
