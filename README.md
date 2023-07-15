@@ -1,6 +1,6 @@
 # powershell-start-service
 
-- This script was written to start a 7 Days to Die dedicated server automatically on windows restart.
+- This script was written to start a 7 Days to Die dedicated server automatically on server shutdown. This enables the use of CSMM auto shutdowns.
 
 - #### **_This was intended to be used on Windows 11, Powershell 6.+._**
 
