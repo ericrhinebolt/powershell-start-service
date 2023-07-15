@@ -1,10 +1,10 @@
 # powershell-start-service
 
-This script was written to start a 7 Days to Die dedicated server automatically on windows restart.
+- This script was written to start a 7 Days to Die dedicated server automatically on windows restart.
 
-#### **_This was intended to be used on Windows 11, Powershell 6.+._**
+- #### **_This was intended to be used on Windows 11, Powershell 6.+._**
 
-My server is located in the directory "C:\7-days". Either install to the same directory or change the code/commands to match your location.
+- My server is located in the directory "C:\7-days". Either install to the same directory or change the code/commands to match your location.
 
 ### If you would like to use this script for you own server, please follow the steps below.
 
